@@ -1,0 +1,56 @@
+.errorOne{
+    color:red;
+}
+.headingtwo, .inputtwo, .buttontwo, .errortwo  {       
+    display:none;
+}
+
+.buttonOne{
+   background-color: greenyellow;
+   width:61px;
+   height:37px;
+   border-radius: 5px;
+   margin-top:20px;
+   padding:10px 14px;
+   
+}
+
+.buttontwo{
+    background-color: rgb(93, 196, 132);
+    width:61px;
+    height:37px;
+    border-radius: 5px;
+    margin-top:20px;
+    padding:10px 14px;
+}
+.inputOne{
+    width:176px;
+    height:27px;
+    background-color:white;
+    border:3px solid white;
+}
+.inputtwo{
+    width:176px;
+    height:27px;
+    background-color:white;
+    border:3px solid white;
+}
+
+
+#design{
+    
+    width:400px;
+    height:300px;
+    text-align: center;
+    background-color:aqua;
+    margin-left:500px;
+    padding-top:30px;
+    
+    
+    
+}
+body{
+    background-color: rgb(235, 216, 216);
+}
+
+
